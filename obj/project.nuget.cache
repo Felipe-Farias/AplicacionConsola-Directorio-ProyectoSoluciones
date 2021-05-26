@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAbTj2A0oHoplV+/jveWKsE/FuB/UEJAe5WH6jtsxurZkcl4Zx5pVBemxIn8S+sTNJKvL1IhhEFRXnsHSjbbsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\Proyecto de Soluciones\\RRHH\\RRHH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.data.sqlite\\5.0.6\\microsoft.data.sqlite.5.0.6.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.6\\microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
